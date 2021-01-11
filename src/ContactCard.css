@@ -1,0 +1,15 @@
+.card{
+    font-size: small;
+    text-align: center;
+    background-color: burlywood;
+    border: inline-block;
+    border-color: red;
+    padding: 16px 20px;
+    color:black;
+    margin: 30px 750px 1px;
+
+}
+#first{
+    background-color: blue;
+    color: orange;
+}
